@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/packages/line_awesome_icons/assets/fonts/icon_font.ttf": "4d42f5f0c62a8f51e876c14575354a6e",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/assets/loading.gif": "262a150360ab4ff3379879f702f99617",
-"assets/assets/lives.json": "0b2c7df5574fcc79fcc51223b4e21cb3"
+"assets/assets/lives.json": "b4daa9c1a3000389ad6b7f7cf7df258f"
 };
 
 self.addEventListener('activate', function (event) {

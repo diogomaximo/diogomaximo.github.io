@@ -1,6 +1,24 @@
 [
   {
-    "when": "24/04/20 - Sexta-feira ás 18h",
+    "when": "24/04/20 - Sexta ás 15:30h",
+    "title": "Leci Brandão",
+    "type": "Samba",
+    "where": "Youtube",
+    "contry": "Nacional",
+    "linkToLive": "https://www.youtube.com/jornaloglobo",
+    "image": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2019/08/lecy_brandao.jpg"
+  },
+  {
+    "when": "24/04/20 - Sexta ás 17:30h",
+    "title": "Neguinho da beija-flor",
+    "type": "Samba",
+    "where": "Youtube",
+    "contry": "Nacional",
+    "linkToLive": "https://www.youtube.com/jornaloglobo",
+    "image": "https://i.ytimg.com/vi/8XpNIwSUrnA/maxresdefault.jpg"
+  },
+  {
+    "when": "24/04/20 - Sexta ás 18h",
     "title": "Ludmilla",
     "type": "Funk",
     "where": "Youtube",
@@ -9,7 +27,7 @@
     "image": "https://abrilclaudia.files.wordpress.com/2019/06/ludmilla.jpg"
   },
   {
-    "when": "24/04/20 - Sexta-feira ás 19h",
+    "when": "24/04/20 - Sexta ás 19h",
     "title": "Paulo Miklos",
     "type": "Rock",
     "where": "Youtube",
@@ -18,7 +36,25 @@
     "image": "https://ipiranganews.inf.br/wp-content/uploads/Sesc-Ipiranga-01-1042.jpg"
   },
   {
-    "when": "24/04/20 - Sexta-feira ás 20h",
+    "when": "24/04/20 - Sexta ás 19h 30m",
+    "title": "Mart'nália",
+    "type": "Samba",
+    "where": "Youtube",
+    "contry": "Nacional",
+    "linkToLive": "https://www.youtube.com/jornaloglobo",
+    "image": "https://stc.otvfoco.com.br/2018/03/martnalia-1280x720.jpg"
+  },
+  {
+    "when": "24/04/20 - Sexta ás 20h",
+    "title": "Dudu Nobre",
+    "type": "Samba",
+    "where": "Youtube",
+    "contry": "Nacional",
+    "linkToLive": "https://www.youtube.com/jornaloglobo",
+    "image": "https://i.ytimg.com/vi/PRFupb6866Y/maxresdefault.jpg"
+  },
+  {
+    "when": "24/04/20 - Sexta ás 20h",
     "title": "Léo Chaves",
     "type": "Sertanejo",
     "where": "Youtube",
@@ -27,7 +63,7 @@
     "image": "https://www.movimentocountry.com/wp-content/uploads/2020/02/leo-chaves-namora-bbb-750x430.jpg"
   },
   {
-    "when": "24/04/20 - Sexta-feira ás 21h",
+    "when": "24/04/20 - Sexta ás 21h",
     "title": "Simone e Simaria",
     "type": "Sertanejo",
     "where": "Youtube",
@@ -36,7 +72,16 @@
     "image": "https://depasecg58tfl.cloudfront.net/wp-content/uploads/2020/01/008-1.jpg"
   },
   {
-    "when": "24/04/20 - Sexta-feira ás 22h 30m",
+    "when": "24/04/20 - Sexta ás 22h",
+    "title": "Arlindinho",
+    "type": "Samba",
+    "where": "Youtube",
+    "contry": "Nacional",
+    "linkToLive": "https://www.youtube.com/jornaloglobo",
+    "image": "https://conteudo.imguol.com.br/c/entretenimento/3c/2019/12/04/o-sambista-carioca-arlindinho-1575486036266_v2_900x506.jpg"
+  },
+  {
+    "when": "24/04/20 - Sexta ás 22h 30m",
     "title": "Felipe Araújo",
     "type": "Sertanejo",
     "where": "Youtube",
